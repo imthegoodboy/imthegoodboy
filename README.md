@@ -1,73 +1,102 @@
-<div align="center">
-
- 
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=AI%2FML+Developer;Building+Intelligent+Systems;Neural+Networks+%7C+LLMs;I+Can+Build+Anything)
-
-[![Email](https://img.shields.io/badge/-nikku696969@gmail.com-6366F1?style=flat&logo=gmail&logoColor=white)](mailto:nikku696969@gmail.com)
-[![X](https://img.shields.io/badge/-@nikku696969-6366F1?style=flat&logo=x&logoColor=white)](https://x.com/nikku696969)
-[![GitHub](https://img.shields.io/badge/-imthegoodboy-6366F1?style=flat&logo=github&logoColor=white)](https://github.com/imthegoodboy)
-
-</div>
-
----
-
-### 💻 Tech Stack
-```python
-skills = {
-    "AI/ML": ["TensorFlow", "PyTorch", "scikit-learn", "OpenCV"],
-    "LLM": ["LangChain", "Hugging Face", "RAG", "Fine-Tuning"],
-    "Languages": ["Python", "JavaScript", "TypeScript", "C++"],
-    "Backend": ["FastAPI", "Flask", "Docker", "Linux"]
-}
-```
+<h1 align="center">👋 Hey, I'm <span style="color:#00C8FF;">Nikku</span></h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,ts,cpp,fastapi,flask,docker,linux,git&theme=light" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C8FF&center=true&vCenter=true&width=600&lines=AI/ML+Developer;Building+Cool+AI+Stuff;Creating+Fun+Projects;Always+Learning+%26+Experimenting" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imthegoodboy&show_icons=true&theme=default&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=333&bg_color=00000000" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imthegoodboy&theme=default&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&background=00000000" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthegoodboy&layout=compact&theme=default&hide_border=true&title_color=6366F1&text_color=333&bg_color=00000000" />
-</p>
+### 🧠 About Me  
+AI/ML developer who loves building intelligent systems and fun experiments.
 
 ---
 
-### 🏆 GitHub Trophies
-
+## 🐾 Running Cat Animation  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imthegoodboy&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Experience" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXphOW9qZHE1YWowYjE0Mmg1YmV2MmoycWFnaWFqOGpnbXJrZm96bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="320"/>
 </p>
 
 ---
 
-### 📈 Contribution Graph
+## 🎮 **Mini Cat Adventure Game (Interactive)**  
+*GitHub doesn't allow JavaScript, so this is a “click-to-choose” adventure game.*
 
+### 🐱 **Your cat starts walking in the forest…**
+
+
+### What should the cat do?
+
+👉 **[Explore the dark cave](#🌑-dark-cave)**  
+👉 **[Follow the glowing butterfly](#🦋-follow-the-butterfly)**  
+👉 **[Climb the big tree](#🌳-the-tree)**  
+
+---
+
+## 🌑 Dark Cave  
+Your cat walks into the cave and finds… a shiny stone 💎  
+Suddenly something moves!
+
+### What now?
+
+👉 **[Run away!](#🎉-ending)**  
+👉 **[Investigate the noise](#😼-brave-cat)**  
+
+---
+
+## 🦋 Follow the Butterfly  
+The glowing butterfly leads your cat to a river of stars ✨  
+It’s beautiful.
+
+### The cat can:
+
+👉 **[Drink the star-water](#🎉-ending)**  
+👉 **[Chase the butterfly deeper](#😼-brave-cat)**  
+
+---
+
+## 🌳 The Tree  
+The cat climbs the giant tree and discovers a secret nest with golden feathers.
+
+### Choices:
+
+👉 **[Take a feather](#🎉-ending)**  
+👉 **[Leave quietly](#😼-brave-cat)**  
+
+---
+
+## 😼 Brave Cat  
+Your cat bravely steps forward…  
+A friendly forest spirit appears and blesses your courage 🌟
+
+### Reward:
+**+ 100 bravery points**  
+**+ magical whiskers**
+
+👉 **[Return to start](#🎮-mini-cat-adventure-game-interactive)**  
+
+---
+
+## 🎉 Ending  
+Your cat escapes safely and learned something new today 💙  
+Thanks for playing!
+
+👉 **[Play again](#🎮-mini-cat-adventure-game-interactive)**  
+
+---
+
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imthegoodboy&theme=minimal&hide_border=true&bg_color=00000000&color=6366F1&line=6366F1&point=6366F1&area=true&area_color=6366F1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imthegoodboy&show_icons=true&hide_border=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imthegoodboy&hide_border=true&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
- 
-
-### 🎯 Current Focus
-```yaml
-Research: AGI, Neural Interfaces, Self-Learning Systems
-Building: Agentic AI, Reasoning Engines, Production LLMs
-Mission: "Building systems that go beyond automation into true cognition"
-```
+## 🐍 GitHub Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
- 
-
- 
+<p align="center">🔥 Always building something cool 🔥</p>
