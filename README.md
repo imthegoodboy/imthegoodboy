@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Nikhil Sharma 👋
+ 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=AI%2FML+Developer;Building+Intelligent+Systems;Neural+Networks+%7C+LLMs;I+Can+Build+Anything)
 
