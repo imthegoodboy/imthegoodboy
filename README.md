@@ -57,15 +57,7 @@ skills = {
 
 ---
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imthegoodboy/imthegoodboy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imthegoodboy/imthegoodboy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imthegoodboy/imthegoodboy/output/github-contribution-grid-snake.svg">
-</picture>
-
----
+ 
 
 ### 🎯 Current Focus
 ```yaml
@@ -76,29 +68,6 @@ Mission: "Building systems that go beyond automation into true cognition"
 
 ---
 
-### 📌 Featured Projects
+ 
 
-<p align="center">
-  <a href="https://github.com/imthegoodboy/new_gen">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=imthegoodboy&repo=new_gen&theme=default&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=333&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/imthegoodboy/MetaShifty">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=imthegoodboy&repo=MetaShifty&theme=default&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=333&bg_color=00000000" />
-  </a>
-</p>
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <i>"From raw data to production deployment — I design, train, and ship intelligent systems."</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imthegoodboy&color=6366F1&style=flat" />
-</p>
-
-<p align="center">
-  <b>⭐ From <a href="https://github.com/imthegoodboy">imthegoodboy</a> | Building the future 🚀</b>
-</p>
+ 
