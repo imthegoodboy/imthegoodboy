@@ -14,10 +14,9 @@
 
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhyYWhqZjE0dXFpbWxxY3o0bzF0ZmtlZjN4aGJsdndqNTc3ZjlmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MC6eSuC3yypCU/giphy.gif" width="260" />
-
-</div>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXphOW9qZHE1YWowYjE0Mmg1YmV2MmoycWFnaWFqOGpnbXJrZm96bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="320"/>
+</p>
 ### 💻 Tech Stack
 
 ```python
