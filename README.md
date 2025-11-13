@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**imthegoodboy/imthegoodboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🐾 Hey, I'm **Nikku**  
+meow meow meow 🐈🐈‍⬛
 
-Here are some ideas to get you started:
+<img src="https://i.imgur.com/8QfZ5YF.png" width="180" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 *Developer • Builder • Cat Lover*
+
+I like creating fun and useful things in **TypeScript**, **Node**, and **Web3**.  
+Always exploring new ideas, breaking things, fixing them again 😼
+
+</div>
+
+---
+
+## 🚀 My Favorite Projects
+- 🔷 **Polygon_clone** — TypeScript experiment on chain logic  
+- 🛒 **Blockshop** — Web3 powered marketplace  
+- 🔐 **ChainGuard** — security + blockchain tooling  
+- 🤖 **AI-deepfake** — playing with ML models  
+
+---
+
+## 🛠️ Tech I Use
+```ts
+TypeScript • Node.js • React • Solidity • Web3.js • Express
+Linux • Git • Docker • REST APIs • MongoDB
