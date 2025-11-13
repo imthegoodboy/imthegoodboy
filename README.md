@@ -37,7 +37,7 @@ skills = {
 
 <p align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,ts,cpp,fastapi,flask,docker,linux,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,linux,ai,docker,kubernetes,bash,&theme=light" />
 
 </p>
 
