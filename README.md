@@ -17,6 +17,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXphOW9qZHE1YWowYjE0Mmg1YmV2MmoycWFnaWFqOGpnbXJrZm96bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="320"/>
 </p>
+
 ### 💻 Tech Stack
 
 ```python
@@ -53,11 +54,7 @@ skills = {
 
 </p>
 
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthegoodboy&layout=compact&theme=default&hide_border=true&title_color=6366F1&text_color=333&bg_color=00000000" />
-
-</p>
+ 
 
 ---
 
