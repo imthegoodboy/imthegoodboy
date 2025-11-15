@@ -45,8 +45,7 @@ skills = {
 
 <p align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imthegoodboy&show_icons=true&theme=default&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=333&bg_color=00000000" />
-
+ 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imthegoodboy&theme=default&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&background=00000000" />
 
 </p>
