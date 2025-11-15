@@ -3,11 +3,8 @@
  
  
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=AI%2FML+Developer;Building+Intelligent+Systems;Neural+Networks+%7C+LLMs;I+Can+Build+Anything)
-
 [![Email](https://img.shields.io/badge/-nikku696969@gmail.com-6366F1?style=flat&logo=gmail&logoColor=white)](mailto:nikku696969@gmail.com)
-
 [![X](https://img.shields.io/badge/-@nikku696969-6366F1?style=flat&logo=x&logoColor=white)](https://x.com/nikku696969)
-
 [![GitHub](https://img.shields.io/badge/-imthegoodboy-6366F1?style=flat&logo=github&logoColor=white)](https://github.com/imthegoodboy)
 
 </div>
