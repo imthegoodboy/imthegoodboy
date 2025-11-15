@@ -53,27 +53,9 @@ skills = {
 
  
 
----
+ 
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=imthegoodboy&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Experience" />
-
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imthegoodboy&theme=minimal&hide_border=true&bg_color=00000000&color=6366F1&line=6366F1&point=6366F1&area=true&area_color=6366F1" />
-
-</p>
-
----
+ 
 
  
 
