@@ -22,28 +22,7 @@ Working on **agentic AI**, **RAG systems**, and **LLM production engineering**.
 
 ---
 
-## 🛠️ Tech Arsenal
+ 
 
-```python
-tech_stack = {
-    "Core AI/ML"      : ["PyTorch", "TensorFlow", "JAX", "LangChain", "LlamaIndex"],
-    "Computer Vision" : ["OpenCV", "YOLO", "Diffusion Models"],
-    "LLM Engineering" : ["Fine-tuning", "RAG", "Quantization", "Agents", "HuggingFace"],
-    "Backend & DevOps": ["FastAPI", "Docker", "Kubernetes", "Linux", "Nginx"],
-    "Languages"       : ["Python", "TypeScript", "C++", "Rust (learning)"]
-}
-
-
-
-🧩 Skills & Tools
-<div align="center">
-AI/ML	Backend	DevOps	Languages
-🧠 PyTorch	⚡ FastAPI	🐳 Docker	🐍 Python
-🤖 TensorFlow	🌐 Node.js	☸ Kubernetes	💻 TypeScript
-🔎 LangChain	🧩 GraphQL	🐧 Linux	🦀 Rust
-⚡ JAX	🚀 Nginx	🔐 Security	💠 C++
-</div>
-
-
-
+ 
 
