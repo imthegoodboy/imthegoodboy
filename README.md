@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nikku 👋
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer;Building+the+future+of+intelligence;LLMs+%7C+Agents+%7C+Reasoning+Engines;Turning+ideas+into+thinking+machines)
 
@@ -13,15 +13,7 @@
 </div>
 
 ---
-
-## 🚀 About Me
-I'm an **AI/ML Engineer** focused on building systems that can **think, reason, and evolve**.  
-Working on **agentic AI**, **RAG systems**, and **LLM production engineering**.
-
-> _"I don't just train models — I build intelligence."_
-
----
-
+ 
  
 
  
