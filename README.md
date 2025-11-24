@@ -8,7 +8,7 @@
 [![X](https://img.shields.io/badge/X-@nikku696969-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nikku696969)
 [![GitHub](https://img.shields.io/badge/GitHub-imthegoodboy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imthegoodboy)
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQ3aWxycWdjb2g1cmY1cDJ5MGNqNjRpbm4ydm02dnR4eWV5Y3EyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/901mxGLGQN2PyCQpoc/giphy.gif" width="260"/>
+<img src="https://camo.githubusercontent.com/778a05267de6de6483cc8f58dc62755b261eecae0c47a3df9bf88cacc7f5f925/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784f5870684f5739715a48453159576f77596a45304d6d6731596d56324d6d6f796357466e615746714f47706e62584a725a6d393662535a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6454316e2f336f72694f304f456439514944646c6c716f2f67697068792e676966" width="260"/>
 
 </div>
 
