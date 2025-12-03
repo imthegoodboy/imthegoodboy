@@ -2,7 +2,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer;Building+the+future+of+intelligence;LLMs+%7C+Agents+%7C+Reasoning+Engines;Turning+ideas+into+thinking+machines)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer;Building+the+future+of+intelligence;LLMs+%7C+Agents+%7C+Reasoning+Engines;Turning+ideas+into+thinking+machines)
 
 [![Gmail](https://img.shields.io/badge/Gmail-nikku696969@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikku696969@gmail.com)
 [![X](https://img.shields.io/badge/X-@nikku696969-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nikku696969)
@@ -22,4 +22,37 @@
  
 
  
+
+<div align="center">
+
+### Streak & Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=imthegoodboy&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imthegoodboy&show_icons=true&hide_border=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imthegoodboy&layout=compact&hide_border=true&theme=transparent)
+
+</div>
+
+<details>
+  <summary>Open Fun Facts</summary>
+  
+  - Building agents and reasoning engines
+  - Exploring multimodal LLMs and tooling
+  - Always shipping, always learning
+</details>
+
+<details>
+  <summary>Daily Challenge</summary>
+  
+  Pick one today: read a paper, ship a small feature, or improve an experiment.
+</details>
+
+<div align="center">
+
+### Mini‑Game
+
+[Play 2048](https://play2048.co/) • [Play Tetris](https://tetris.com/play-tetris)
+
+</div>
+
 
